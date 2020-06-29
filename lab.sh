@@ -1,3 +1,3 @@
 #!/bin/bash
 
-mkdir new | cp ~/.bashrc ~/new/.bak
+mkdir ~/new && cp ~/.bashrc ~/new.bak
